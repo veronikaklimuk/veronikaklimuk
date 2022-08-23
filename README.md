@@ -54,7 +54,20 @@ So here is a brief summary:
 4. **Where** would the dashboard be used? On laptops; the dashboard size should be 16:9 so that Analysts could copy-paste it to their presentations. There is also a need to have a phone version. 
 5. **Why** do users need it? The key objective is to prevent employee burnout. To do this, a survey is conducted, where employees indicate their degree of satisfaction, assess work environment and work-life balance. Based on the data obtained a further analysis is carried out.
 
+📊 [Dash-2 BI and Data Analysts Market Overview](https://public.tableau.com/app/profile/veronika.klimuk/viz/BIandDataAnalystsMarketOverview/BIandDataAnalystsMarketOverview#1)
 
+This dashboard was created to monitor labor market trends in the Data Analysis field. 
+
+The **main aim** is to cover the following questions:
+- How many open vacancies are out there?
+- What is the average salary? What is the salary range? 
+- Which skills are the most requested at the moment?
+- What is the general trend? Is there any seasonality?
+    
+There are **3 main categories of users** who may find this dashboard useful:
+- Candidates looking for a new job, whose goal is to find most recent vacancies and their description; 
+- Candidates not looking for a new job, whose goal is to track in-demand skills in order to stay competitive;
+- Recruiters, whose goal is to analyze their open requests contrasted to the market and to stay updated on alike requests.
 
 
 
