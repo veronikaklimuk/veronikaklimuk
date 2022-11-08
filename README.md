@@ -6,9 +6,9 @@ My name is Veronika, I'm an aspiring Product Analyst with proven experience in O
 
 Since February 2018 I work as a Business Operations Analyst at IBA Group, being responsible for analyzing operational and financial data and creating solution oriented reports. 
 
-Having ~5 years of experience, and background knowledge in mathematics and statistics, I became interested in analysing not only operational and financial but complex data, finding correlations and looking for telltale trends. 
+In October 2022 I completed the “Data Analyst” course scoring 95%. Through development of personal projects, I’ve learned  how to gather, analyse and present findings from small and large datasets by utilising skills in SQL, Python and Tableau. 
 
-Currently I'm taking an extensive course to master at Python, SQL, git, Tableau, Airflow. As the course ends, I’ll be looking for a Data Analyst/ Product Analyst position. So if you or your company is hiring, please feel free to contact me. 
+With a passion for solving complex problems and finding insights, I am eager to further implement my skills and improve data analysis experience. So if you or your company is hiring, please feel free to contact me. 
 
 I'm always happy to connect with like-minded and passionate people. 
 
