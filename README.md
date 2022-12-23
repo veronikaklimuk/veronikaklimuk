@@ -14,7 +14,7 @@ I'm always happy to connect with like-minded and passionate people.
 
 You can reach me via:
 - 💬 [Telegram](t.me/veronbugattiveyron)
-- 💼 [LinkedIn](linkedin.com/in/veronika-klimuk-98a6ba159)
+- 💼 [LinkedIn](https://www.linkedin.com/in/veronika-klimuk-98a6ba159/)
 - ✉️ klimuk.veranika@gmail.com
 
 ### Hard Skills:
