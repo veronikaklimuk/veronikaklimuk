@@ -2,15 +2,13 @@
 ---
 Hi there! 👋🏻
 
-My name is Veronika, I'm an aspiring Product Analyst with proven experience in Operational and Financial Analytics. 
+I'm Veronika, a London-based Data Analyst, adept at transforming complex data into actionable insights and strategic guidance.
 
-Since February 2018 I work as a Business Operations Analyst at IBA Group, being responsible for analyzing operational and financial data and creating solution oriented reports. 
+At Wargaming, I have researched and refined the A/B testing framework, leading to a significant improvement in experimentation processes. My contributions, including conducting robustness analyses and implementing variance reduction techniques, have accelerated experimentation speed by 33%. Additionally, I've optimised the metrics calculation ETL pipeline, and supported strategic decision-making through comprehensive A/B test analyses and ad-hoc data insights.
 
-In October 2022 I completed the “Data Analyst” course scoring 95%. Through development of personal projects, I’ve learned  how to gather, analyse and present findings from small and large datasets by utilising skills in SQL, Python and Tableau. 
+Currently I'm actively seeking to join a team in London or remotely in the UK to work on great products and further utilise my data analysis capabilities. So if you have opportunities that align with my skills, I'd love to hear from you.
 
-With a passion for solving complex problems and finding insights, I am eager to further implement my skills and improve data analysis experience. So if you or your company is hiring, please feel free to contact me. 
-
-I'm always happy to connect with like-minded and passionate people. 
+Other than that, feel free to reach out to me. I am always eager to connect with like-minded individuals in the field.
 
 You can reach me via:
 - 💬 [Telegram](t.me/veronbugattiveyron)
