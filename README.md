@@ -1,14 +1,10 @@
 ### About me:
 ---
-Hi there! 👋🏻
+👋🏻 Hi there! I’m Veronika, a Product Analyst at Wise 💚
 
-I'm Veronika, a London-based Data Analyst, adept at transforming complex data into actionable insights and strategic guidance.
+I’m passionate about uncovering insights through data analysis, using A/B testing and statistics to drive strategic decisions and enhance products.
 
-At Wargaming, I have researched and refined the A/B testing framework, leading to a significant improvement in experimentation processes. My contributions, including conducting robustness analyses and implementing variance reduction techniques, have accelerated experimentation speed by 33%. Additionally, I've optimised the metrics calculation ETL pipeline, and supported strategic decision-making through comprehensive A/B test analyses and ad-hoc data insights.
-
-Currently I'm actively seeking to join a team in London or remotely in the UK to work on great products and further utilise my data analysis capabilities. So if you have opportunities that align with my skills, I'd love to hear from you.
-
-Other than that, feel free to reach out to me. I am always eager to connect with like-minded individuals in the field.
+Feel free to reach out—I’m always eager to connect with like-minded professionals in the field.
 
 You can reach me via:
 - 💬 [Telegram](t.me/veronbugattiveyron)
